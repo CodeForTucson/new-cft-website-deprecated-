@@ -1,6 +1,3 @@
-# new-cft-website
-A new Code for Tucson website.
-
 [![standard-readme compliant](https://img.shields.io/github/last-commit/CodeForTucson/new-cft-website)](https://github.com/CodeForTucson/new-cft-website)
 ## Table of Contents
 
@@ -22,13 +19,15 @@ Feel free to dive in! [Open an issue](https://github.com/CodeForTucson/new-cft-w
 If you'd like to get your feet wet, take a look at some [good first issues](https://github.com/CodeForTucson/new-cft-website/labels/good%20first%20issue).
 
 ### Brief Tutorial
-We recommend newcomers to first read an old guide [this](https://rogerdudler.github.io/git-guide/). However, the developer community recently agreed to rename the `master` branch to `main`. 
-As a refresher, to contribute take the following steps:
+We recommend newcomers to first read an old [guide](https://rogerdudler.github.io/git-guide/). However, the developer community recently agreed to rename the `master` branch to `main`. 
+As a refresher, to contribute, take the following steps:
 
 - First, `clone` the repo
 ```
 git clone <repo_url>
 ```
+
+If you are not added yet as a collaborator, you may first need to [fork](https://docs.github.com/en/github-ae@latest/get-started/quickstart/fork-a-repo) the repo in order to contribute.
 
 - Create a new `branch` from the [main](https://www.atlassian.com/git/tutorials/using-branches) branch (or `master`, or whatever branch you want to work off of).
 ```
