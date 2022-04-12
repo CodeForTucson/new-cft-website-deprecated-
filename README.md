@@ -3,7 +3,8 @@
 
 - [Background](#background)
 - [Contributing](#contributing)
-- [Learning Resources](#resources)
+- [Learning Resources](#learning-resources)
+- [Social](#social)
 - [License](#license)
 
 ## Background
@@ -100,5 +101,11 @@ Standard Readme follows the [Contributor Covenant](http://contributor-covenant.o
 	- [Techworld with Nana](https://www.youtube.com/c/TechWorldwithNana)
 
 Feel free to add resources you'd find helpful, or request new ones be added by creating an issue!
+
+## Social
+- Meet Us!
+	- [Meetup](https://www.meetup.com/Code-for-Tucson/?_cookie-check=SolmC1PjRvs9NyEY)
+	- [Slack](https://codefortucson.slack.com)
+
 ## License
 [MIT](LICENSE)
